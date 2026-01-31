@@ -79,4 +79,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 ---
 
-*Created by [abatima*](https://www.google.com/search?q=https://github.com/abatima)
+Created by [abatima](https://github.com/abatima)
