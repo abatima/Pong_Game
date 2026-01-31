@@ -1,7 +1,3 @@
-Based on the structure of the **Pong_Game** repository by **abatima**, here is a comprehensive `README.md` file you can use for the project.
-
----
-
 # Pong Game 🏓
 
 A classic, two-player arcade Pong game built using **Python** and the **Turtle** graphics library. This project demonstrates object-oriented programming (OOP) principles by separating the logic for paddles, the ball, and the scoreboard into distinct classes.
