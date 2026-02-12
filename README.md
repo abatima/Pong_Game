@@ -1,5 +1,7 @@
 # Pong Game 🏓
 
+## <img width="801" height="631" alt="image" src="https://github.com/user-attachments/assets/75bf9565-5bb4-48ec-82a0-a1693140940e" />
+
 A classic, two-player arcade Pong game built using **Python** and the **Turtle** graphics library. This project demonstrates object-oriented programming (OOP) principles by separating the logic for paddles, the ball, and the scoreboard into distinct classes.
 
 ## 🎮 Features
